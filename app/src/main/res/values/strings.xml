@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="name_movie">Judul Movie</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="release">Release</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="description">Deskripsi</string>
+    <string name="movie_poster">Movie Poster</string>
+
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Avenger Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bumble Bee</item>
+        <item>Creed II</item>
+        <item>Deadpool</item>
+        <item>Dragon</item>
+        <item>DragonBall</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Marry Popins</item>
+        <item>Mortal Engine</item>
+        <item>Robinhood</item>
+        <item>Spiderman</item>
+        <item>Venom</item>
+    </string-array>
+    <string-array name="data_release">
+        <item>21 Desember 2018 </item>
+        <item>25 April 2018</item>
+        <item>14 Desember 2018</item>
+        <item>19 Desember 2018</item>
+        <item>28 November 2018</item>
+        <item>10 Februari 2016</item>
+        <item>9 Januari 2019</item>
+        <item>17 Desember 2011</item>
+        <item>16 Januari 2019 </item>
+        <item>24 Oktober 2018</item>
+        <item>26 Agustus 1964</item>
+        <item>13 Desember 2018</item>
+        <item>20 November 2018</item>
+        <item>3 Juli 2019</item>
+        <item>3 Oktober 2018</item>
+    </string-array>
+    <string-array name="data_sutradara">
+        <item>James Wan</item>
+        <item>Russo Bersaudara</item>
+        <item>Susanne Bier</item>
+        <item>Travis Knight</item>
+        <item>Steven Caple Jr.</item>
+        <item>Tim Miller</item>
+        <item>Dean DeBlois</item>
+        <item>Akira Toriyama</item>
+        <item>M. Night Shyamalan</item>
+        <item>Donovan Marsh</item>
+        <item>Robert Stevenson</item>
+        <item>Christian Rivers</item>
+        <item>Otto Bathurst</item>
+        <item>Jon Watts</item>
+        <item>Ruben Fleischer</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Film ini mengungkap asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut. Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7samudera?</item>
+        <item>The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.</item>
+        <item>Bird Box adalah sebuah film produksi tahun 2018 yang berasal dari Amerika Serikat bergenre post-apocalyptic. Film ini disutradarai oleh Susanne Bier, naskah ditulis oleh Eric Heisserer, berdasarkan novel berjudul sama, karya novelis Josh Malerman yang terbit pada tahun 2014</item>
+        <item>Dalam pelarian di tahun 1987, Bumblebee menemukan perlindungan di tempat rongsokan di sebuah kota kecil pinggir pantai California. Charlie, gadis yang tengah menyentuh usia 18 tahun dan sedang mencari jati diri, menemukan Bumblebee, yang banyak tergores dan rusak. Ketika berusaha memfungsikannya lagi, Charlie menyaksikan sendiri bahwa ini bukanlah mobil VW kodok berwarna kuning yang biasa.</item>
+        <item>Creed II akan melanjutkan kisah Adonis Johnson di dalam serta di luar ring saat ia berhadapan dengan ketenaran, masalah keluarga dan misi yang terus berlanjut untuk menjadi juara sejati.</item>
+        <item>Deadpool adalah sebuah film pahlawan super Amerika yang berdasarkan pada karakter Marvel Comics dengan nama yang sama. Film tersebut merupakan instalmen kedelapan dalam serial film X-Men</item>
+        <item>Di film ketiganya ini akan berkisah tentang Hiccup (Jay Baruchel) yang berusaha memenuhi impiannya untuk menciptakan sebuah negeri impian bagi para Viking dan naga...</item>
+        <item>Dragon Ball adalah sebuah manga dan anime karya Akira Toriyama dari tahun 1984 sampai 1995. Albumnya terdiri dari 42 buku dan di Indonesia diterbitkan oleh Elex Media Komputindo. Sebelumnya Dragon Ball juga pernah diterbitkan oleh Rajawali Grafiti.</item>
+        <item>Film Glass akan melanjutkan kisah pencarian Kevin Wendell Crumb yang hmelarikan diri setelah menculik para gadis. Kevin Wendel Crumbang memiliki 20 kepribadian dalam satu jiwa ini bisa berubah menjadi seorang monster saat pribadinya yang bernama The Beast muncul.</item>
+        <item>Hunter Killer akan berkisah tentang misi tim kapal selam Amerika Serikat untuk menyelamatkan presiden Rusia yang di kudeta oleh kelompok militan di negaranya..</item>
+        <item>Mary Poppins adalah sebuah film musikal Amerika Serikat tahun 1964 yang dibintangi oleh Julie Andrews dan Dick Van Dyke, dikeluarkan oleh Walt Disney, dan berbasis seri buku Mary Poppins oleh P. L. Travers dengan ilustrasi oleh Mary Shepard.</item>
+        <item>Mortal Engines mengisahkan keadaan dunia setelah kiamat. Tom adalah orang London berusia dua puluh yang hanya pernah hidup di kampung halamannya, dan kakinya tidak pernah menyentuh rumput, lumpur atau tanah.</item>
+        <item>Robin Hood (Taron Egerton) sebagai tentara salib kembali ke negerinya dalam keadaan yang berbeda. Ia menemukan pejabat korup dan menghabiskan uang kerajaan sementara rakyat dalam keadaan sengsara. Bersama Little John (Jamie Foxx) Ia melawan tirani Inggris yang sangat kuat.</item>
+        <item>Spider-Man, adalah pahlawan super fiktif dari Marvel Comics yang diciptakan oleh penulis Stan Lee dan artis Steve Ditko. Ia pertama muncul dalam Amazing Fantasy #15. Ia telah menjadi salah satu pahlawan super yang paling terkenal di dunia.</item>
+        <item>Seorang jurnalis, Eddie Brock (Tom Hardy) ingin melakukan sebuah investasi kasus terhadap penemuan yang dipimpin oleh Dr. Carlton Drake (Riz Ahmed). Karena investigasinya, Eddie mengunjungi lab milik Dr. Calrlton Drake. Semuanya ditujukan untuk membuktikan bahwa Dr. Carlton Drake sedang sedang melakukan tindakan jahat menggunakan Symbiote.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+</resources>
